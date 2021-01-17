@@ -12,4 +12,9 @@ This application is is based on an idea that I had for a todolist / note taking 
  - Quickly insert the current date into the description by pressing the "Date button", this is good for keeping a log of things, e.g. exercise, diary, diet, habits, etc.
  - Single user login: The application currently only has the username and password hardcoded into the login file. 
  
+ # Screenshots
+ 
 ![screenshot_Tasks_todo_mobile_screenshot_censored.jpg](screenshots/screenshot_Tasks_todo_mobile_screenshot_censored.jpg)
+![screenshot_PC_tasks_todo_censored.JPG](screenshots/screenshot_PC_tasks_todo_censored.JPG)
+![screenshot_PC_edit.JPG](screenshots/screenshot_PC_edit.JPG)
+![screenshot_PC_add.JPG](screenshots/screenshot_PC_add.JPG)
