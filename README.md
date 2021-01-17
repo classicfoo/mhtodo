@@ -1,7 +1,7 @@
 # mhtodo
 A responsive todolist created in PHP
 
-This application is is based on an idea that I had for a todolist / note taking application. I liked the idea of the Bullet Journal but I wanted to have something digitaltally. What I found was that I could categorize each bullet with a single letter hence my name for this concept I call it the "TNX method". TNX stands for the most common types: Task, Note, Done. The application uses the default text as it's style with buttons and links giving it a retro look. It has buttons that make sounds so you can reward yourself after completing a task. It has a sqlite database 
+This application is is based on an idea that I had for a todolist / note taking application. I liked the idea of the Bullet Journal but I wanted to have something digitaltally. What I found was that I could categorize each bullet with a single letter hence my name for this concept I call it the "TNX method". TNX stands for the most common types: Task, Note, Done. The application uses the default text as it's style with buttons and links giving it a retro look. It has buttons that make sounds so you can reward yourself after completing a task. It stores the data in a sqlite3 database.
 
 # Features
 
