@@ -2,7 +2,7 @@
   session_start();
   $username = $_POST['username']; 
   $password = $_POST['password'];
-  if($username === 'admin' && $password === '6CnbANK8RS'){
+  if($username === 'admin' && $password === 'Hx77leuyYvQ5'){
     $_SESSION['login'] = true;
     header('LOCATION:tasks.php');
     //die();
