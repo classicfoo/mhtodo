@@ -14,7 +14,10 @@ This application is is based on an idea that I had for a todolist / note taking 
  
  # Screenshots
  
-![screenshot_Tasks_todo_mobile_screenshot_censored.jpg](screenshots/screenshot_Tasks_todo_mobile_screenshot_censored.jpg)
+![screenshot_Tasks_todo_mobile_screenshot_censored.jpg](screenshots/screenshot_Tasks_todo_mobile_screenshot_censored.jpg) *screenshot_Tasks_todo_mobile_screenshot_censored.jpg*
 ![screenshot_PC_tasks_todo_censored.JPG](screenshots/screenshot_PC_tasks_todo_censored.JPG)
+*screenshot_PC_tasks_todo_censored.JPG*
 ![screenshot_PC_edit.JPG](screenshots/screenshot_PC_edit.JPG)
+*screenshot_PC_edit.JPG*
 ![screenshot_PC_add.JPG](screenshots/screenshot_PC_add.JPG)
+*screenshot_PC_add.JPG*
